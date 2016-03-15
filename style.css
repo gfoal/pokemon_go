@@ -1,0 +1,14 @@
+.mini-card, .full-card {
+	display: inline-block;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.mini-card {
+	width: 30%;
+	margin: 10px;
+}
+
+header {
+	text-align: center;
+}
